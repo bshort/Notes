@@ -71,8 +71,28 @@ https://perfectmediaserver.com/
 - Then, finally, install Docker Engine:
 
 `sudo apt-get update`
-`sudo apt-get install docker-ce docker-ce-cli containerd.io`
+~~`sudo apt-get install docker-ce docker-ce-cli containerd.io`~~
+
+`sudo apt install docker.io`
 
 - ...and then test to see if Docker is actually working
 
 `sudo docker run hello-world`
+
+
+## Set up Samba
+
+`sudo apt install samba`
+
+
+
+## Set up SSH server
+
+`sudo apt install openssh-client`
+
+`sudo apt install openssh-server`
+
+restart ssh server
+
+`sudo systemctl restart sshd.service`
+
