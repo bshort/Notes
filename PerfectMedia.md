@@ -1,4 +1,6 @@
 # Key things to remember for Perfect Media Server 
+on
+192.168.1.196
 
 ## setting up ZFS
 
