@@ -98,3 +98,19 @@ restart ssh server
 
 `sudo systemctl restart sshd.service`
 
+
+
+##Set up SSH Keys for remote access
+
+Run this on local machine
+
+`ssh-keygen -t rsa`
+
+
+Then copy it to the server:
+
+`ssh-copy-id -i ~/.ssh/id_rsa.pub bshort@192.168.1.196`
+
+
+Then try ssh into the server:
+`ssh bshort@192.168.1.196`
