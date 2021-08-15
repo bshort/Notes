@@ -86,7 +86,8 @@ signet rings - 125gp each
        They have an identifiable emblem
 
 
-Roland iks coming with us
+Roland is coming with us
+
 
 
 The dragon is Asherdalan - related to the dragon cult
