@@ -1,5 +1,6 @@
 # Dave - Theodysius - Variant Human - Fighter
 
+
 # Todd - elf - En'Indar Echerykindrie ("Indar") - A monk
 
 # Christopher - Roland Navigator - Human - A barbarian
