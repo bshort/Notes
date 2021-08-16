@@ -118,5 +118,56 @@ Goblins  stole their dragon?
 
 Their leader is Yastradle?
 
+#----------------------------------------------------------------------
+
+# 2021 - 08 - 15
+
+Second session
+
+Yusdral is the Kobold king guy
 
 
+We're on the way to find the goblins and the dragon
+
+There's a room with a dragon diving down over a fountain
+
+
+Meepo knows some phrase in draconic that made the statue spit orange fluid
+
+Apparently the scary door says "Rebuke the dead, open the way"
+
+
+6 doors - ajar
+smells musty
+
+...
+
+Another diving dragon statue
+
+*room with Caltrops
+
+3ft high wall on the other sidehttps://collider.com/jack-reacher-amazon-series-details/
+
+
+
+*** After the goblins
+
+"Balsig" is the ...something... of the Goblins
+
+
+Goblin's name is...
+
+
+# The Gnome
+Acaloyte Erki Timbers
+
+In a cage
+Three humans caught a month ago
+Talgyn
+Sherwyn
+Sir Bofwyn
+
+Only kept a week before taken somewhere else
+
+
+Golfias tree? What could that be? The gnome thinks there's a fruit that grows from it.
