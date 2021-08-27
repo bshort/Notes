@@ -224,3 +224,38 @@ We were greated as heroes by the Kobolds.
 
 Yusdral wants to have a conversation
 
+
+"Rebuke the dead, open the way"
+
+## The room with the Elder Skeletal dragon door
+
+five sarcophagi (elvish)
+small whistle - Crystal and there are runes - dragon curled into a ball
+Small flask - Crystal with a liquid
+Candle burning
+
+
+From the hobgoblin
+The skeletons whisper "aranal"
+
+Belloc took the homans to the skeletons
+
+
+Durn is the chief of the Dubalak
+
+Hobgoblin  - D'Kalk
+
+
+## Trophy room
+
+Heads on walls
+
+Rats, kobold heads, etc.
+
+Spike with a chain
+
+Frost coats lots of things
+
+#--------------------------------------------------------------------------------
+
+
